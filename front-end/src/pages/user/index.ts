@@ -1,0 +1,10 @@
+export { default as PlansAndPricing } from './PlansAndPricing'
+export { default as PublicBlogs } from './Blogs'
+export { default as Home } from "./Home";
+export { default as NotFound } from "./NotFound";
+export { default as UserGallery } from "./UserGallery";
+export { default as Menu } from "./Menu";
+export { default as Services } from "./Services";
+export { default as DetailedServices } from "./DetailedServices";
+export { default as Contact } from "./Contact";
+export { default as About } from "./About";

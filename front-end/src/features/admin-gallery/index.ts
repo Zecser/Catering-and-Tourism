@@ -1,0 +1,1 @@
+export { default as AdminGallery} from './components/AdminGallery';

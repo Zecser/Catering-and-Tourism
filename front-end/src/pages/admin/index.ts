@@ -1,0 +1,11 @@
+export { default as PlanManagement } from './PlanManagement'
+export { default as AdminBlogList } from './BlogList'
+export { default as AdminBlogEdit } from './BlogEdit'
+export { default as AdminGallery } from './AdminGallery'
+export { default as AdminMenu } from './AdminMenu'
+export { default as Services } from "./Services";
+export { default as AdminLogin } from "./AdminLogin";
+export { default as AdminReviews } from "./AdminReviews";
+export { default as Home } from "./Home";
+export { default as AdminForgotPassword } from "./AdminForgotPassword";
+export { default as AdminResetPassword } from "./AdminResetPassword";

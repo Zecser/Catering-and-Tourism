@@ -1,0 +1,1 @@
+export { default as PricingGrid } from './components/PricingGrid'
